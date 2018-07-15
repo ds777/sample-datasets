@@ -10,6 +10,6 @@
 
 ## Productivity Database 2017: Productivity_Database_2017.csv
 
-Fernández-Arias, Eduardo, ed. 2017. Productivity Database 2017. Washington, DC: Inter-American Development Bank. Department of Research and Chief Economist. Distributed by Washington, DC: Inter-American Development Bank. Numbers for Development. <https://mydata.iadb.org/Economics/Productivity-Database-2017/n576-t3wa/about>
+- Fernández-Arias, Eduardo, ed. 2017. Productivity Database 2017. Washington, DC: Inter-American Development Bank. Department of Research and Chief Economist. Distributed by Washington, DC: Inter-American Development Bank. Numbers for Development. <https://mydata.iadb.org/Economics/Productivity-Database-2017/n576-t3wa/about>
 
-This database provides measures of labor productivity (LP), capital and labor productivity (KLP) and Total Factor Productivity computed by Daude and Fernández-Arias (2010) for the 1960-2014 period, along with the inputs used to calculate them. This data spans 79 countries of them.
+- This database provides measures of labor productivity (LP), capital and labor productivity (KLP) and Total Factor Productivity computed by Daude and Fernández-Arias (2010) for the 1960-2014 period, along with the inputs used to calculate them. This data spans 79 countries of them. <https://publications.iadb.org/handle/11319/8656?locale-attribute=en>
