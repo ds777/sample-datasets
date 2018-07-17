@@ -8,7 +8,7 @@
 - The second series was instead produced by merging and appropriately sorting two random samples of 500 observations
   - These two samples, again drawn from a univariate normal distribution, differed in their means
 
-## Productivity Database 2017: Productivity_Database_2017.csv
+## World Productivity Database 2017: Productivity_Database_2017.csv
 
 - Fernández-Arias, Eduardo, ed. 2017. Productivity Database 2017. Washington, DC: Inter-American Development Bank. Department of Research and Chief Economist. Distributed by Washington, DC: Inter-American Development Bank. Numbers for Development. <https://mydata.iadb.org/Economics/Productivity-Database-2017/n576-t3wa/about>
 
@@ -19,3 +19,17 @@
 - Download code:
 
   Productivity_Database_2017 <- read_csv("https://raw.githubusercontent.com/ds777/sample-datasets/master/Productivity_Database_2017.csv")
+
+## World Income Database: ps2009.csv
+
+
+### Download code
+
+ps2009 <- read_csv("https://raw.githubusercontent.com/ds777/sample-datasets/master/ps2009.csv")
+
+### Related files
+
+- ps2009.csv
+- ps2009.dta
+- c3data.dta
+- <https://www.stata-journal.com/article.html?article=st0503>
