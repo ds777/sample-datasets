@@ -16,14 +16,14 @@
 
 - Database description:  <https://github.com/ds777/sample-datasets/blob/master/Fernandez-Arias%202017%20-%20Database%20description.pdf>
 
-- Download code:
+- Download code for R:
 
   Productivity_Database_2017 <- read_csv("https://raw.githubusercontent.com/ds777/sample-datasets/master/Productivity_Database_2017.csv")
 
 ## World Income Database: ps2009.csv
 
 
-### Download code
+### Download code for R
 
 ps2009 <- read_csv("https://raw.githubusercontent.com/ds777/sample-datasets/master/ps2009.csv")
 
@@ -33,3 +33,15 @@ ps2009 <- read_csv("https://raw.githubusercontent.com/ds777/sample-datasets/mast
 - ps2009.dta
 - c3data.dta
 - <https://www.stata-journal.com/article.html?article=st0503>
+
+## Economic Growth Data (From David Weil Book, 2011)
+
+- Source: <http://www.routledgetextbooks.com/textbooks/9780321795731/resources.php>
+
+- For data definitions and sources see: WeilLabData2011FinalRevised-definitions-sources.txt
+
+### Download code for R
+
+weil <- read_csv("https://raw.githubusercontent.com/ds777/sample-datasets/master/WeilLabData2011FinalRevised.csv")
+
+### Jamovi datafile available

@@ -1,0 +1,228 @@
+Data Definitions and Sources
+
+PWT Code: Country code from Penn World Table 7.0. Source: Penn World Table (PWT) 7.0 (2011).
+
+WDI Code: Country code from World Development Indicators 2011. Source: World Bank, World Development Indicators (WDI) (2011).
+
+pop75: Total population, 1975. Source: PWT 7.0 (2011).
+
+pop09: Total population, 2009. Source: PWT 7.0 (2011).
+
+gpop: Annual population growth (%) from 1975 to 2009. Source: PWT 7.0 (2011).
+
+k1975: Stock of physical capital (2005 International Dollars ), 1975. Source: PWT 7.0 (2011).
+
+k2009: Stock of physical capital (2005 International Dollars), 2009. Source: PWT 7.0 (2011).
+
+kpw1975: Stock of physical capital per worker (2005 International Dollars), 1975. Source: PWT 7.0 (2011).
+
+kpw2009: Stock of physical capital per worker (2005 International Dollars), 2009. Source: PWT 7.0 (2011).
+
+hc1975: Human capital per worker. Calculated as explained in Chapter 6 with data from Barro and Lee (2010).
+
+hc2009: Human capital per worker. Calculated as explained in Chapter 6 with data from Barro and Lee (2010).
+
+rgdpwk1975: Real gross domestic product (GDP) per worker (2005 International Dollars), 1975. Calculated with data from PWT 7.0 (2011).
+
+rgdpwk2009: Real gross domestic product (GDP) per worker (2005 International Dollars), 2009. Calculated with data from PWT 7.0 (2011).
+
+
+rgdpch1950: Real gross domestic product (GDP) per capita (2005 International Dollars), 1950. Source: PWT 7.0 (2011).
+
+rgdpch1955: Real gross domestic product (GDP) per capita (2005 International Dollars), 1955. Source: PWT 7.0 (2011).
+
+rgdpch1960: Real gross domestic product (GDP) per capita (2005 International Dollars), 1960. Source: PWT 7.0 (2011).
+
+rgdpch1965: Real gross domestic product (GDP) per capita (2005 International Dollars), 1965. Source: PWT 7.0 (2011).
+
+rgdpch1970: Real gross domestic product (GDP) per capita (2005 International Dollars), 1970. Source: PWT 7.0 (2011).
+
+rgdpch1975: Real gross domestic product (GDP) per capita (2005 International Dollars), 1975. Source: PWT 7.0 (2011).
+rgdpch1980: Real gross domestic product (GDP) per capita (2005 International Dollars), 1980. Source: PWT 7.0 (2011).
+
+rgdpch1985: Real gross domestic product (GDP) per capita (2005 International Dollars), 1985. Source: PWT 7.0 (2011).
+
+rgdpch1990: Real gross domestic product (GDP) per capita (2005 International Dollars), 1990. Source: PWT 7.0 (2011).
+
+rgdpch1995: Real gross domestic product (GDP) per capita (2005 International Dollars), 1995. Source: PWT 7.0 (2011).
+
+rgdpch2000: Real gross domestic product (GDP) per capita (2005 International Dollars), 2000. Source: PWT 7.0 (2011).
+
+rgdpch2005: Real gross domestic product (GDP) per capita (2005 International Dollars), 2005. Source: PWT 7.0 (2011).
+
+rgdpch2006: Real gross domestic product (GDP) per capita (2005 International Dollars), 2006. Source: PWT 7.0 (2011).
+
+rgdpch2007: Real gross domestic product (GDP) per capita (2005 International Dollars), 2007. Source: PWT 7.0 (2011).
+
+rgdpch2008: Real gross domestic product (GDP) per capita (2005 International Dollars), 2008. Source: PWT 7.0 (2011).
+
+rgdpch2009: Real gross domestic product (GDP) per capita (2005 International Dollars), 2009. Source: PWT 7.0 (2011).
+
+gy7509: Annual growth of GDP per capita (rgdpch) from 1975 to 2009 (%). Source: PWT 7.0 (2011).
+
+prodgrowth: Annual growth of productivity from 1975 to 2009 (%). Calculated as explained in Chapter 7. Source: PWT 7.0 (2011).
+
+ki1975: Investment share of PPP Converted GDP per capita at 2005 constant prices (rgdpl), 1975. Source: PWT 7.0 (2011).
+
+ki2009: Investment share of PPP Converted GDP per capita at 2005 constant prices (rgdpl), 2009. Source: PWT 7.0 (2011).
+
+meanki: Investment share of PPP Converted GDP per capita at 2005 constant prices (rgdpl), 1975-2009 average. Source: PWT 7.0 (2011).
+
+natsav09: National savings / GDP (%), 2009. Calculated with data from PWT 7.0 (2011).
+
+grodomsav75: Gross domestic savings / GDP (%), 1975. Source: World Bank WDI (2011).
+
+grodomsav09: Gross domestic savings / GDP (%), 2009. Source: World Bank WDI (2011).
+
+govsp75: Government spending / GDP (%), 1975. Source: World Bank WDI (2011).
+
+govsp09: Government spending / GDP (%), 2009. Source: World Bank WDI (2011).
+
+privcap75: Private capital flows / GDP (%), 1975. Private capital flows includes net foreign direct investment and portfolio investment. Data are in current U.S. dollars. Source: World Bank WDI (2011).
+
+privcap09: Private capital flows / GDP (%), 2009. Private capital flows includes net foreign direct investment and portfolio investment. Data are in current U.S. dollars. Source: World Bank WDI (2011).
+
+fdi75: Foreign direct investment / GDP (%), 1975. Foreign direct investment are the net inflows of investment to acquire a lasting management interest (10 percent or more of voting stock) in an enterprise operating in an economy other than that of the investor. It is the sum of equity capital, reinvestment of earnings, other long-term capital, and short-term capital as shown in the balance of payments. Source: World Bank WDI (2011).
+
+fdi09: Foreign direct investment / GDP (%), 2009. Foreign direct investment are the net inflows of investment to acquire a lasting management interest (10 percent or more of voting stock) in an enterprise operating in an economy other than that of the investor. It is the sum of equity capital, reinvestment of earnings, other long-term capital, and short-term capital as shown in the balance of payments. Source: World Bank WDI (2011).
+
+imports75: Imports / GDP (%), 1975. Imports comprise all purchases of goods and services by residents of a country from the rest of the world. Source: World Bank WDI (2011).
+
+imports09: Imports / GDP (%), 2009. Imports comprise all purchases of goods and services by residents of a country from the rest of the world. Source: World Bank WDI (2011).
+
+trade75: Trade / GDP (%), 1975. Trade is the sum of exports and imports of goods and services measured as a share of gross domestic product. Source: World Bank WDI (2011).
+
+trade09: Trade / GDP (%), 1975. Trade is the sum of exports and imports of goods and services measured as a share of gross domestic product. Source: World Bank WDI (2011).
+
+openfrac: Fraction of years in which a country's economy was open during the period 1965-1999, using Sachs and Warner (1995) criteria. Source: Wacziarg and Welch (2008).
+
+tradetax09:  Taxes on international trade / total revenue (%), 2009. Source: World Bank WDI (2011).
+
+martax09:  Highest marginal tax rate, individual rate (%), most recent year available between 1999 and 2009. It is the highest rate shown on the schedule of tax rates applied to the taxable income of individuals. Sources: KPMG's Individual Income Tax and Social Security Rate Survey 2009 (www.kpmg.com), and PricewaterhouseCoopers's Worldwide Tax Summaries Online (www.pwc.com).
+
+migration10: Net migration, 2010. World Bank WDI (2011).
+
+labfor75: Number of people in the labor force, 1975. PWT 7.0 (2011).
+
+labfor09: Number of people in the labor force, 2009. PWT 7.0 (2011).
+
+labpop09: Number of people in the labor force / total population, 2009. PWT 7.0 (2011).
+
+indgdp75: Industry, value added / GDP (%), 1975. Industry corresponds to ISIC divisions 10-45 and includes manufacturing (ISIC divisions 15-37). It comprises value added in mining, manufacturing, construction, electricity, water, and gas. Value added is the net output of a sector after adding up all outputs and subtracting intermediate inputs. Source: World Bank WDI (2011).
+
+indgdp09: Industry, value added / GDP (%), 2009. Industry corresponds to ISIC divisions 10-45 and includes manufacturing (ISIC divisions 15-37). It comprises value added in mining, manufacturing, construction, electricity, water, and gas. Value added is the net output of a sector after adding up all outputs and subtracting intermediate inputs. Source: World Bank WDI (2011).
+
+agrigdp75: Agriculture, value added / GDP (%), 1975. Agriculture corresponds to ISIC divisions 1-5 and includes forestry, hunting, and fishing, as well as cultivation of crops and livestock production. Value added is the net output of a sector after adding up all outputs and subtracting intermediate inputs. Source: World Bank WDI (2011).
+
+agrigdp09: Agriculture, value added / GDP (%), 2009. Agriculture corresponds to ISIC divisions 1-5 and includes forestry, hunting, and fishing, as well as cultivation of crops and livestock production. Value added is the net output of a sector after adding up all outputs and subtracting intermediate inputs. Source: World Bank WDI (2011).
+
+aggdpperagworker09: Agricultural GDP per agricultural worker in constant dollars at 2000 prices, 2009. Source: Food and Agriculture Organization of the United Nations (FAO-UN), Statistical Yearbook 2010.
+
+percemployagr10: Population employed in agriculture / total population (%), 2009. Source: FAO, Statistical Yearbook 2010.
+
+natcap00: Natural capital per capita (constant dollars at 2000 prices), 2000. Natural capital is the sum of nonrenewable resources (including oil, natural gas, coal, and mineral resources), cropland, pastureland, forested areas (including areas used for timber extraction and nontimber forest products), and protected areas. For details on the valuation of natural resources see the methodologies described in the data source. Source: “Where is the Wealth of Nations? Measuring Capital for the 21st Century”, The World Bank, Washington, DC
+(http://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/ENVIRONMENT/EXTEEI/0,,contentMDK:20872280~pagePK:210058~piPK:210062~theSitePK:408050,00.html)
+
+mindep09: Mineral depletion / Gross National Income (GNI) (%), 2009. Mineral depletion is equal to the product of unit resource rents and the physical quantities of minerals extracted. It refers to bauxite, copper, iron, lead, nickel, phosphate, tin, zinc, gold, and silver. Source: World Bank WDI (2011).
+
+endep09: Energy depletion / GNI (%).  Energy depletion is equal to the product of unit resource rents and the physical quantities of energy extracted. It covers crude oil, natural gas, and coal. Source: World Bank WDI (2011).
+
+fordep09: Net forest depletion / GNI (%). Net forest depletion is calculated as the product of unit resource rents and the excess of roundwood harvest over natural growth. Source: World Bank WDI (2011).
+
+co2emm07: CO2 emissions (metric tons per capita). Carbon dioxide emissions are those stemming from the burning of fossil fuels and the manufacture of cement. They include carbon dioxide produced during consumption of solid, liquid, and gas fuels and gas flaring. Source: Carbon Dioxide Information Analysis Center, Environmental Sciences Division, Oak Ridge National Laboratory, Tennessee, United States.
+
+tfr75: Total fertility rate, 1975. Total fertility rate represents the number of children that would be born to a woman if she were to live to the end of her childbearing years and bear children in accordance with current age-specific fertility rates. Source: World Bank WDI (2011).
+
+tfr09: Total fertility rate, 2009. Total fertility rate represents the number of children that would be born to a woman if she were to live to the end of her childbearing years and bear children in accordance with current age-specific fertility rates. Source: World Bank WDI (2011).
+
+infmor09: Infant mortality rate (per 1,000 live births), 2009. Infant mortality rate is the number of infants dying before reaching one year of age, per 1,000 live births in a given year. Source: World Bank WDI (2011).
+
+malaria94: population exposed to malaria / total population (%), 1994. Source: Kiszewski et al. (2004).
+
+malariaecology: An index measuring the suitability of a country's climate to mosquito breeding as well as the prevalence of mosquito species that feed only on humans. Source: Kiszewski et al. (2004).
+
+calories07: Calories per worker per day, 2005-2007. Source: Food and Agriculture Organization of the United Nations (FAO-UN), Statistical Yearbook 2010.
+
+lifeex75: Life expectancy at birth (years), 1975. Life expectancy at birth indicates the number of years a newborn infant would live if prevailing patterns of mortality at the time of its birth were to stay the same throughout its life. Source: World Bank WDI (2011).
+
+lifeex09: Life expectancy at birth (years), 2009. Life expectancy at birth indicates the number of years a newborn infant would live if prevailing patterns of mortality at the time of its birth were to stay the same throughout its life. Source: World Bank WDI (2011).
+
+agedep75: Age dependency ratio (%), 1975. Age dependency ratio is the ratio of dependents (people younger than 15 or older than 64) to the working-age population (those ages 15-64). Source: World Bank WDI (2011).
+
+agedep09: Age dependency ratio (%), 2009. Age dependency ratio is the ratio of dependents (people younger than 15 or older than 64) to the working-age population (those ages 15-64). Source: World Bank WDI (2011).
+
+avgsch75: Average years of education within 25+ population, 1975. Source: Barro and Lee (2010).
+
+avgsch2010: Average years of education within 25+ population, 2009. Source: Barro and Lee (2010).
+
+secsch09: Gross enrollment rate in secondary school (%). Gross enrollment ratio is the ratio of total enrollment, regardless of age, to the population of the age group that officially corresponds to the level of education shown. Source: World Bank WDI (2011).
+
+collegeadultpop2010: 25+ population that started college education / total 25+ population (%), 2010. Source: Barro and Lee (2010).
+
+compcollegeadultpop2010: 25+ population that completed college education / total 25+ population (%), 2010. Source: Barro and Lee (2010).
+
+avgyrsfemaleed: Average years of education within females 25+. Source: Barro and Lee (2010).
+
+testscores09: Average scores in math and science standarized tests, 2009. Source: OECD Program for International Student Assessment (PISA), 2009.
+
+intuser09: Internet users per 100 people, 2009. Internet users are people with access to the worldwide network. Source: World Bank WDI (2011).
+
+tele09: Telephone lines per 100 people, 2009. Telephone lines are fixed telephone lines that connect a subscriber's terminal equipment to the public switched telephone network and that have a port on a telephone exchange. Integrated services digital network channels and fixed wireless subscribers are included. Source: World Bank WDI (2011).
+
+cells09: Mobile cellular subscriptions per 100 people, 2009. Mobile cellular telephone subscriptions are subscriptions to a public mobile telephone service using cellular technology, which provide access to the public switched telephone network. Post-paid and prepaid subscriptions are included. Source: World Bank WDI (2011).
+
+comp05: Personal computers per 1 million people, most recent year available between 2001 and 2005. Personal computers are self-contained computers designed to be used by a single individual. Per capita figures expressed per 1 million people. Source: World Bank WDI (2011).
+
+gini75: Gini index, 1975 or closest available year within the range 1970-1980. Source: Deininger and Squire (1996), high quality sample.
+
+gini09: Gini index, most recent figure in the 2000s. Data Source: World Bank WDI (2011).
+
+topincsh09: Income share held by highest 20%, most recent figure in the 2000s. Percentage share of income or consumption that accrues to highest quintile in the population. Data Source: World Bank WDI (2011).
+
+botincsh09: Income share held by lowest 20%, most recent figure in the 2000s. Percentage share of income or consumption that accrues to lowest quintile in the population. Data Source: World Bank WDI (2011).
+
+laborshare: Labor's share of national income. Source: Bernanke and Gürkaynak (2001), Table 10 and footnote 18.
+
+ethnicfractionalization: Ethnic Fractionalization. This is the probability that two randomly selected people in a country will not belong to the same ethnic group. Source: Alesina et al. (2003).
+
+rulelaw2009: Rule of Law, 2009. This variable captures the level of people’s confidence in the rules governing their society and the extent to which they follow them, as well as factors like contract enforcement, property rights, the likelihood of crime and the efficacy of the police force. The individual variables that go into its construction include the kidnapping of foreigners and the likelihood of being a victim in a crime. Source: Kaufmann, Daniel Aart Kraay and Massimo Mastruzzi, 2010, “Governance Matters IX: Governance Indicators for 1996-2009,” World Bank Policy Research Paper 5430.
+
+corrcon09: Corruption Control, 2009. This variable measures perceptions regarding the extent to which public power is used unjustly for private gains, and the taking over of a state by corrupt elites. The variables used include things such as bribes and surveys regarding how many government officials are thought to be corrupt. Source: Kaufmann, Daniel Aart Kraay and Massimo Mastruzzi, 2010, “Governance Matters IX: Governance Indicators for 1996-2009,” World Bank Policy Research Paper 5430.
+
+polrights10: Political Rights, 2010. The political rights index ranges from 1 to 7, with 1 representing the most free countries and 7 the least free. The ratings are based on the provision of basic human rights, as described in the Universal Declaration of Human Rights, in a country. Political rights are defined as the ability of people to freely participate in the political process, such as voting and joining political parties. For detail on data collection and methodology see the data source. Source: Freedom House, “Freedom in the World 2010 Survey Release” (http://www.freedomhouse.org/template.cfm?page=505).
+
+
+instability: This variable is constructed reversing the sign of an index of “political stability and absence of violence/terrorism”. That index records perceptions of how likely it is that the government will be overthrown by unconstitutional or violent means, such as terrorism, and also captures the occurrence of riots and violent demonstrations. Source: Kaufmann, Daniel Aart Kraay and Massimo Mastruzzi, 2010, “Governance Matters IX: Governance Indicators for 1996-2009,” World Bank Policy Research Paper 5430.
+
+soccapability: Social Capability Index. Source: Temple and Johnson (1998).
+
+thrift: Percentage of people who chose “Thrift, saving money and things” as one of up to 5 “qualities that children can be encouraged to learn at home” that they considered “especially important”, from the most recent of waves 3, 4 and 5 of the World Values Survey (WVS). Source: WVS.
+
+obedience: Percentage of people who chose “Obedience” as one of up to 5 “qualities that children can be encouraged to learn at home” that they considered “especially important”, from the most recent of waves 3, 4 and 5 of the WVS. Source: WVS.
+
+perseverance: Percentage of people who chose “Determination, perseverance” as one of up to 5 “qualities that children can be encouraged to learn at home” that they considered “especially important”, from the most recent of waves 3, 4 and 5 of the WVS. Source: WVS.
+
+faith: Percentage of people who chose “Religious faith” as one of up to 5 “qualities that children can be encouraged to learn at home” that they considered “especially important”, from the most recent of waves 3, 4 and 5 of the WVS. Source: WVS.
+
+technvstrad: Percentage of people that chose option B when asked to chose which statement of the following pair came closer to their view: “A) We should emphasize tradition more than high technology; B) We should emphasize high technology more than tradition”, from the most recent of waves 3, 4 and 5 of the WVS. Source: WVS.
+
+work: Average value of answers from the most recent of waves 3, 4 and 5 of the WVS to the question “Which point on this scale most clearly describes how much weight you place on work (including housework and schoolwork), as compared with leisure or recreation?”, where answers are in a scale from 1 to 5 in which 1 means “It´s leisure that makes life worth living, not work” and 5 means “Work is what makes life worth living, not leisure in the most recent. Source: WVS.
+
+trust: Percentage of people who answered “Most people can be trusted” to the question “Generally speaking, would you say that most people can be trusted or that you need to be very careful in dealing with people?”, in the most recent waves 3, 4 and 5 of the WVS.  Source: WVS.
+
+wellbeing: Subjective feeling of happiness; average answer to the question “Taking all things together, would you say you are: 1) Very happy; 2) Quite happy; 3) Not very happy; 4) Not at all happy” converted to a 1-100 scale, from the most recent of waves 3, 4 and 5 of the WVS. Source: WVS.
+
+
+africa: Dummy variable which takes a value of 1 if the country is in Africa.
+
+asia: Dummy variable which takes a value of 1 if the country is in Asia.
+
+westerneurope: Dummy variable which takes a value of 1 if the country is in Western Europe.
+
+latitude: Latitude. Source: Gallup, Mellinger and Sachs, “Geography Datasets”, Center for International Development, Harvard University.
+
+area: Total country area in square kilometers. Source: Gallup, Mellinger and Sachs, “Geography Datasets”, Center for International Development, Harvard University.
+
+popden60: Population density (people per square mile), 1960. Source: Source: Burkett, Humblet, and Putterman (1999).
+
+# missing values: Number of missing value across all variables in the data set for a given country.
