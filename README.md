@@ -45,3 +45,15 @@ ps2009 <- read_csv("https://raw.githubusercontent.com/ds777/sample-datasets/mast
 weil <- read_csv("https://raw.githubusercontent.com/ds777/sample-datasets/master/WeilLabData2011FinalRevised.csv")
 
 ### Jamovi datafile available
+
+## 10 Sector Database
+
+### Dani Rodrik Version
+
+Dataset from his famous paper
+
+- McMillan, M. S., & Rodrik, D. (2011). Globalization, structural change and productivity growth (No. w17143). National Bureau of Economic Research.
+
+Stata file names
+- Rodrik-dataset-decomposition-1990-2005.dta
+- Rodrik-industres-Employment-VA.dta
