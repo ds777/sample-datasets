@@ -1,5 +1,11 @@
 # sample-datasets
 
+## weighted-unconditional-beta-convergence
+
+- Cole, M. A., & Neumayer, E. (2003). The pitfalls of convergence analysis: is the income gap really widening?. Applied Economics Letters, 10(6), 355-357.
+
+df <- read_csv("https://raw.githubusercontent.com/ds777/sample-datasets/master/weighted-unconditional-beta-convergence.csv")
+
 ## simData
 
   From Magrini, S. (2007). [Analysing convergence through the distribution dynamics approach: why and how?](https://sites.google.com/a/unive.it/smagrini/home/matlab-code)
