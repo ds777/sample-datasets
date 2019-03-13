@@ -14,7 +14,7 @@ df <- read_csv("https://raw.githubusercontent.com/ds777/sample-datasets/master/w
 - The second series was instead produced by merging and appropriately sorting two random samples of 500 observations
   - These two samples, again drawn from a univariate normal distribution, differed in their means
 
-## World Productivity Database 2017: Productivity_Database_2017.csv
+## World Productivity Database 2017: Fernandez-Arias-2017-Database.csv
 
 - Fernández-Arias, Eduardo, ed. 2017. Productivity Database 2017. Washington, DC: Inter-American Development Bank. Department of Research and Chief Economist. Distributed by Washington, DC: Inter-American Development Bank. Numbers for Development. <https://mydata.iadb.org/Economics/Productivity-Database-2017/n576-t3wa/about>
 
@@ -24,7 +24,7 @@ df <- read_csv("https://raw.githubusercontent.com/ds777/sample-datasets/master/w
 
 - Download code for R:
 
-  Productivity_Database_2017 <- read_csv("https://raw.githubusercontent.com/ds777/sample-datasets/master/Productivity_Database_2017.csv")
+  Fernandez-Arias-2017-Database <- read_csv("https://raw.githubusercontent.com/ds777/sample-datasets/master/Fernandez-Arias-2017-Database.csv") 
 
 ## World Income Database: ps2009.csv
 
