@@ -24,7 +24,7 @@ df <- read_csv("https://raw.githubusercontent.com/ds777/sample-datasets/master/w
 
 - Download code for R:
 
-  Fernandez-Arias-2017-Database <- read_csv("https://raw.githubusercontent.com/ds777/sample-datasets/master/Fernandez-Arias-2017-Database.csv") 
+  df <- read_csv("https://raw.githubusercontent.com/ds777/sample-datasets/master/Fernandez-Arias-2017-Database.csv") 
 
 ## World Income Database: ps2009.csv
 
