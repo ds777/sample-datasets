@@ -1,5 +1,26 @@
 # sample-datasets
 
+## Shape file of 67 provinces of Turkey
+
+- File name and extension: turkey_admin1_merge3_all.zip
+
+### Variables:
+
+- growth: growth rate of per capita real income 1987-2001
+- base: lograrithm of the per apita income in the base year 1987
+- T: average terrorism index
+- E: average years of schooling
+- G: real per capita government expenditures in 1987
+- Coastal: dummy variable  which takes the value of one if the province is a coastal province.
+
+### Source:
+
+- Öcal, N., & Yildirim, J. (2010). Regional effects of terrorism on economic growth in Turkey: A geographically weighted regression approach. Journal of Peace Research, 47(4), 477-489.
+
+- [Matthew C. Ingram](http://mattingram.net/teaching/spatialanalysis/)
+
+### Download Link:
+
 ## weighted-unconditional-beta-convergence
 
 - Cole, M. A., & Neumayer, E. (2003). The pitfalls of convergence analysis: is the income gap really widening?. Applied Economics Letters, 10(6), 355-357.
@@ -24,7 +45,7 @@ df <- read_csv("https://raw.githubusercontent.com/ds777/sample-datasets/master/w
 
 - Download code for R:
 
-Fernandez_Arias_2017_Database <- read_csv("https://raw.githubusercontent.com/ds777/sample-datasets/master/Fernandez-Arias-2017-Database.csv") 
+Fernandez_Arias_2017_Database <- read_csv("https://raw.githubusercontent.com/ds777/sample-datasets/master/Fernandez-Arias-2017-Database.csv")
 
 ## World Income Database: ps2009.csv
 
