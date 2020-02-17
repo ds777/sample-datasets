@@ -1,6 +1,6 @@
 # sample-datasets
 
-## Shape file of 67 provinces of Turkey
+## Shapefile of 67 provinces of Turkey
 
 - File name and extension: turkey_admin1_merge3_all.zip
 
@@ -20,6 +20,8 @@
 - [Matthew C. Ingram](http://mattingram.net/teaching/spatialanalysis/)
 
 ### Download Link:
+
+https://github.com/ds777/sample-datasets/blob/master/turkey_admin1_merge3_all.zip?raw=true
 
 ## weighted-unconditional-beta-convergence
 
