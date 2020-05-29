@@ -1,6 +1,49 @@
 # sample-datasets
 
-## Shapefile of 67 provinces of Turkey
+## Shapefile: Nepal
+
+- File name and extension: NapalAid.zip
+
+### Data information
+
+Observations = 75 districts
+Variables = 26
+One cross-section based on data for years between 1991 and 2013
+
+- DepEcProv:  Deprivation in economic provisioning
+- PovIndex:	  Human Poverty Index
+- PCInc:	    Per Capita Income
+- PCIncPPP:	  Per Capita Income PPP
+- PCIncMP:  	Per capita income, Rs. at market price
+- MalKids:	  Percentage of children under age five who are malnourished
+- Lif40:	    Percentage of People not expected to survive age 40
+- NoSafH20:  	Percentage without safe water
+- Population:	Population
+- BoyG1_5:	  Number of Boys Enrolled in Grade 1-5 (2012-2013)
+- GirlG1_5:	  Number of Girls Enrolled in Grade 1-5 (2012-2013)
+- KIDS1_5:	  Number of Children Enrolled in Grade 1-5 (2012-2013)
+- SchoolCnt: 	Number of Schools (2012-2013)
+- SCHLPKID:	  Number of Schools per child (in thousands) (2012-2013)
+- SCHLPPOP:	  Number of Schools per population (in thousands) (2012-2013)
+- AD_ILLIT:	  Adult illiteracy rate (2011)
+- AD_ILGT50:  Dummy variable with value of 1 if adult illiteracy rate >50% (2011)
+- VotNum:   	Number of Voters (lunar years 2047-2063, approx. 1991 to 2006)
+- TotEcFMS: 	Total economy including financial intermediation service indirectly measured (total value added)
+- XXCAmt:	    Project Sector Committed Amount: XX = sector (see above)	Project Data from AidData Aggregated to District
+- XXDAmt:	    Project Sector Distributed Amount: XX = sector: Agriculture, Business Banking, Communication, Conflict Resolution, Budget Support + Finance, Education, Energy, Environment, Forestry, Gov + Civil Society, Health, Humanitarian Aid, Industry, Multi-Sector, Social Infrastructure, Tourism, Transport + Storage, Water Sanitation, Total
+
+
+### Source:
+
+https://geodacenter.github.io/data-and-lab/nepal/
+
+
+### Download link:
+
+https://github.com/ds777/sample-datasets/blob/master/NapalAid.zip.zip?raw=true
+---
+
+## Shapefile: Turkey 67 provinces
 
 - File name and extension: turkey_admin1_merge3_all.zip
 
@@ -23,6 +66,8 @@
 ### Download Link:
 
 https://github.com/ds777/sample-datasets/blob/master/turkey_admin1_merge3_all.zip?raw=true
+
+---
 
 ## weighted-unconditional-beta-convergence
 
