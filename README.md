@@ -1,8 +1,8 @@
 # Sample datasets for teaching
 
-## Shapefile: Nepal
+## Shapefile: NepalAid
 
-- File name and extension: NapalAid.zip
+- File name and extension: [NapalAid.zip](https://github.com/ds777/sample-datasets/blob/master/NapalAid.zip.zip?raw=true)
 
 ### Data information
 
