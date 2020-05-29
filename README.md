@@ -7,8 +7,8 @@
 ### Data information
 
 Observations = 75 districts
-Variables = 26
-One cross-section based on data for years between 1991 and 2013
+
+Variables = 26. One cross-section based on data for years between 1991 and 2013
 
 - DepEcProv:  Deprivation in economic provisioning
 - PovIndex:	  Human Poverty Index
