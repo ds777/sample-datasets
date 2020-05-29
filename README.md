@@ -1,4 +1,4 @@
-# sample-datasets
+# Sample datasets for teaching
 
 ## Shapefile: Nepal
 
@@ -41,6 +41,8 @@ https://geodacenter.github.io/data-and-lab/nepal/
 ### Download link:
 
 https://github.com/ds777/sample-datasets/blob/master/NapalAid.zip.zip?raw=true
+
+
 ---
 
 ## Shapefile: Turkey 67 provinces
