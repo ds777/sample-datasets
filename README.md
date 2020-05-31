@@ -2,7 +2,7 @@
 
 ## Shapefile: NepalAid
 
-- File name and extension: [NapalAid.zip](https://github.com/ds777/sample-datasets/blob/master/NapalAid.zip.zip?raw=true)
+- File name and extension: [NapalAid.zip](https://github.com/ds777/sample-datasets/blob/master/NepalAid.zip.zip?raw=true)
 
 ### Data information
 
@@ -40,7 +40,7 @@ https://geodacenter.github.io/data-and-lab/nepal/
 
 ### Download link:
 
-https://github.com/ds777/sample-datasets/blob/master/NapalAid.zip.zip?raw=true
+https://github.com/ds777/sample-datasets/blob/master/NepalAid.zip.zip?raw=true
 
 
 ---
